@@ -90,6 +90,7 @@ the domain registration and DNS management in a simple way.
 * [Pangolin](https://github.com/fosrl/pangolin) [![pangolin github stars badge](https://img.shields.io/github/stars/fosrl/pangolin?style=flat)](https://github.com/fosrl/pangolin) - Fully self-hostable tunneled reverse proxy management server with identity and access control, automated SSL certificates, and dashboard UI.
 * [Sdump](https://github.com/ayinke-llc/sdump) [![Sdump github stars badge](https://img.shields.io/github/stars/ayinke-llc/sdump?style=flat)](https://github.com/ayinke-llc//sdump/stargazers) - Public SSH introspection and local proxying server. No software required, no registration, just SSH needed.
 * [gopuppetsocket](https://github.com/hydrargyrum/gopuppetsocket) - Fake server and fake client to help traverse firewalls by using a reverse connection server → client
+* [mmar](https://github.com/yusuf-musleh/mmar) [![mmar github stars badge](https://img.shields.io/github/stars/yusuf-musleh/mmar?style=flat)](https://github.com/yusuf-musleh/mmar/stargazers) - A zero-dependency, self-hostable, cross-platform HTTP tunnel that exposes your localhost to the world on a public URL. AGPL-3.0 License. Written in Go.
 
 
 # Commercial/Closed source
